@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+
+:root {
+
+    /* COLORS */
+    --navy-blue: #003781;
+    --orange: #f9bf3b;
+    --light-blue: #1e90ff;
+
+    /* FONTS */
+    --Roboto: 'Roboto', sans-serif;
+    --Open-Sans: 'Open Sans', sans-serif;
+    --Montserrat: 'Montserrat', sans-serif;
+
+}

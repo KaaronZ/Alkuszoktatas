@@ -1,0 +1,12 @@
+@import './Variables.css';
+
+.hero {
+  height: 100vh;
+  width: 100%;
+  background: url('../Assets/Background.png') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
